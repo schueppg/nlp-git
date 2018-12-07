@@ -1,3 +1,1 @@
 Hello Git World!
-How are you?
-I'm grand!
